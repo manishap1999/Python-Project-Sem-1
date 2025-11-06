@@ -1,0 +1,37 @@
+[
+    {
+        "id": "003902",
+        "name": "Manisha",
+        "email": "p1891p@gmai.com",
+        "password": "Mania123",
+        "subjects": [
+            {
+                "name": "Subject-267",
+                "mark": 75,
+                "grade": "D"
+            },
+            {
+                "name": "Subject-242",
+                "mark": 78,
+                "grade": "D"
+            },
+            {
+                "name": "Subject-878",
+                "mark": 91,
+                "grade": "HD"
+            },
+            {
+                "name": "Subject-560",
+                "mark": 95,
+                "grade": "HD"
+            }
+        ]
+    },
+    {
+        "id": "120637",
+        "name": "Payal",
+        "email": "manishapp27@gmail.com",
+        "password": "Testing123",
+        "subjects": []
+    }
+]
